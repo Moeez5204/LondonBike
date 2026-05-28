@@ -2,6 +2,11 @@
 
 SQL portfolio project analyzing hourly London bike-sharing rentals (2015–2017), combined with weather and calendar features. Includes 10 analytical queries and an optional Python script that loads the data and displays five charts.
 
+# Data analysed 
+
+<img width="1492" height="905" alt="Screenshot 2026-05-28 at 4 53 41 PM" src="https://github.com/user-attachments/assets/fe1c0754-346b-4182-a72c-7087182254cd" />
+
+
 ## Features
 
 - **MySQL schema** for hourly rental and weather data
